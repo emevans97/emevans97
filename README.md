@@ -10,7 +10,7 @@ Thanks for checking out my profile! 🙏🏻
 
 Checkout some of my work:
 
-- Data pipeline from S3 bucket to MSSQL database [here](https://www.linkedin.com/in/emevans97/)
+- Data pipeline from S3 bucket to MSSQL database [here](https://github.com/emevans97/data210-final-project)
 - Natural language processing analysis on 1.3 million tweets [here](https://github.com/emevans97/NLP_sentiment)
 
 <!--
