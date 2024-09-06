@@ -2,7 +2,7 @@
 
 Thanks for checking out my profile! 🙏🏻
 
-#### I'm a Junior Data Engineer with a background in biological sciences and experience in the agrochemicals sector, hoping to harness the power of data to make a difference to the climate and biodiversity crisis 🌍 🐟 🦧 
+#### I'm a Graduate Data Scientist working for the Department of Health and Social Care, with a background in biological sciences and experience in the agrochemicals sector, I am hoping to harness the power of data to make a difference to the climate and biodiversity crisis 🌍 🐟 🦧 
 
 - 🔭 I’m currently working on improving my knowledge of cloud services and data engineering
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/emevans97/)
